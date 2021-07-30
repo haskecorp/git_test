@@ -1,0 +1,1 @@
+This is haskecorps first "top" git project.
